@@ -37,9 +37,10 @@
 
 ---
 
+<div align="center">
+
 ##### *📊 Thông số ứng dụng từ cửa hàng*
 
-<div align="center">
 
 | *🏷️ Nhãn* | *⚙️ Chi tiết* |
 | :--- | :--- |
@@ -51,11 +52,9 @@
 
 </div>
 
----
-
-##### *📥 Tải xuống (Download)*
-
 <div align="center">
+  
+##### *📥 Tải xuống (Download)*
   
 [![Download APK](https://img.shields.io/badge/APK_MOD_V6.103.6-00A2FF?style=for-the-badge&logo=android&logoColor=white)](https://www.dropbox.com/scl/fi/rfx2ur1ft4cywh6b98wqv/Duolingo_v6.103.6_-_Premium.apk?rlkey=95x2lvxdf6argtkwpw739xg7y&st=rth36djh&dl=1)
 <br>
@@ -67,7 +66,7 @@
 </div>
 
 ---
-
+  
 ##### *⚠️ Miễn trừ trách nhiệm (Disclaimer)*
 
 > *Dự án này chỉ phục vụ cho mục đích nghiên cứu và học tập cá nhân. Nếu bạn yêu thích ứng dụng, hãy đăng ký gói trả phí chính thức trên **Google Play** để ủng hộ nhà phát triển **Duolingo Inc.***
