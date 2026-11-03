@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:0055ff&height=180&section=header&text=DUOLINGO%20PREMIUM&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Modified&descSize=35&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:0055ff&height=280&section=header&text=DUOLINGO%20PREMIUM&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Modified&descSize=35&descAlignY=60" width="100%"/>
    <img src="https://github.com/itsfourvn/itsfourvn/blob/main/generated/itsfourvn.svg" width="150" alt="itsfourvn animated name">
   <br><br>
 
