@@ -56,7 +56,7 @@
   
 ##### *📥 Tải xuống (Download)*
   
-[![Download APK](https://img.shields.io/badge/APK_MOD_V6.103.6-00A2FF?style=for-the-badge&logo=android&logoColor=white)](https://www.dropbox.com/scl/fi/rfx2ur1ft4cywh6b98wqv/Duolingo_v6.103.6_-_Premium.apk?rlkey=95x2lvxdf6argtkwpw739xg7y&st=rth36djh&dl=1)
+[![Download APK](https://img.shields.io/badge/APK_MOD_V6.103.6-00A2FF?style=for-the-badge&logo=android&logoColor=white)](https://www.dropbox.com/scl/fi/rfx2ur1ft4cywh6b98wqv/Duolingo_v6.103.6_-_Premium.apk?rlkey=95x2lvxdf6argtkwpw739xg7y&st=bo5uzsas&dl=1)
 <br>
 
 [![Download APK](https://img.shields.io/badge/APK_origin-00A2FF?style=for-the-badge&logo=android&logoColor=white)]([https://play.google.com/store/apps/details?id=com.duolingo)
