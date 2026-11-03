@@ -31,13 +31,13 @@
 
 ---
 
-#### ✨ *Tính năng*
+##### ✨ *Tính năng*
 
 *Mở khóa Super/ Max Duolingo, học tập không giới hạn. Loại bỏ hoàn toàn các thành phần quảng cáo, theo dõi và mã thừa giúp giảm dung lượng. Nâng cao tốc độ phản hồi, mượt mà hơn và tiết kiệm dung lượng pin tối đa.*
 
 ---
 
-#### *📊 Thông số ứng dụng từ cửa hàng*
+##### *📊 Thông số ứng dụng từ cửa hàng*
 
 <div align="center">
 
@@ -53,7 +53,7 @@
 
 ---
 
-#### *📥 Tải xuống (Download)*
+##### *📥 Tải xuống (Download)*
 
 <div align="center">
   
