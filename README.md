@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:0055ff&height=200&section=header&text=DUOLINGO%20PREMIUM&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Modified&descSize=35&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:0055ff&height=200&section=header&text=PROJECTS%20APK&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Modified&descSize=35&descAlignY=60" width="100%"/>
    <img src="https://github.com/itsfour/itsfour/blob/main/generated/itsfour.svg" width="150" alt="itsfourvn animated name">
   <br><br>
 
@@ -31,37 +31,22 @@
 
 ---
 
-##### ✨ *Tính năng*
+##### ✨ *Project*
 
-*Mở khóa Super/ Max Duolingo, học tập không giới hạn. Loại bỏ hoàn toàn các thành phần quảng cáo, theo dõi và mã thừa giúp giảm dung lượng. Nâng cao tốc độ phản hồi, mượt mà hơn và tiết kiệm dung lượng pin tối đa.*
-
+- ***Duolingo ++**: Mở khóa Super/ Max Duolingo, học tập không giới hạn. Loại bỏ hoàn toàn các thành phần quảng cáo, theo dõi và mã thừa giúp giảm dung lượng. Nâng cao tốc độ phản hồi, mượt mà hơn và tiết kiệm dung lượng pin tối đa.*
+- ***Locket Widget ++**: Mở khoá Locket Gold*
 ---
-
-<div align="center">
-
-##### *📊 Thông số ứng dụng từ cửa hàng*
-
-
-| *🏷️ Nhãn* | *⚙️ Chi tiết* |
-| :--- | :--- |
-| ***Phiên bản*** | *`v6.103.6`* |
-| ***Kích thước*** | *`~47 MB`* |
-| ***Hệ điều hành*** | *`Android 7.0+`* |
-| ***Đánh giá*** | *`3.9 ⭐` (4,000+ đánh giá)* |
-| ***CPU*** | `arm64-v8a, armeabi-v7a` |
-
-</div>
 
 <div align="center">
   
 ##### *📥 Tải xuống (Download)*
   
-[![MOD APK](https://img.shields.io/badge/APK_MOD_V6.103.6-00A2FF?style=for-the-badge&logo=android&logoColor=white)](https://www.dropbox.com/scl/fi/ya3kp3qidf03kmjoo9dei/Duolingo_v6.103.6_-_Premium.apk?rlkey=0i38w7b98hw41lchjsn0ygxao&st=o37t1c4g&dl=1)
+[![DUOLINGO APK](https://img.shields.io/badge/DUOLING_++_V6.103.6-00A2FF?style=for-the-badge&logo=android&logoColor=white)](https://www.dropbox.com/scl/fi/ya3kp3qidf03kmjoo9dei/Duolingo_v6.103.6_-_Premium.apk?rlkey=0i38w7b98hw41lchjsn0ygxao&st=o37t1c4g&dl=1)
 <br>
 
-[![Origin APK](https://img.shields.io/badge/APK_origin-00A2FF?style=for-the-badge&logo=android&logoColor=white)]([https://play.google.com/store/apps/details?id=com.duolingo)
+[![LOCKET APK](https://img.shields.io/badge/LOCKET_WIDGET++-00A2FF?style=for-the-badge&logo=android&logoColor=white)]([https://play.google.com/store/apps/details?id=com.duolingo)
 
-*(Nhấn vào version`.apk` bạn muốn tải)*
+*(Nhấn vào`.apk` bạn muốn tải)*
 
 </div>
 
@@ -69,7 +54,7 @@
   
 ##### *⚠️ Miễn trừ trách nhiệm (Disclaimer)*
 
-> *Dự án này chỉ phục vụ cho mục đích nghiên cứu và học tập cá nhân. Nếu bạn yêu thích ứng dụng, hãy đăng ký gói trả phí chính thức trên **Google Play** để ủng hộ nhà phát triển **Duolingo Inc.***
+> *Dự án này chỉ phục vụ cho mục đích nghiên cứu và học tập cá nhân. Nếu bạn yêu thích ứng dụng, hãy đăng ký gói trả phí chính thức trên **Google Play** để ủng hộ các nhà phát hành **DInc.***
 
 <div align="center">
   <sub>Built with ❤️ by <a href="https://github.com/itsfourvn">itsfourvn</a></sub>
