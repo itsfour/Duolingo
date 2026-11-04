@@ -23,7 +23,7 @@
 
   <br>
 
-  > 💡 *Phiên bản tùy biến này mang đến trải nghiệm học tập trọn vẹn nhất mà không bị giới hạn bởi các rào cản tính năng.*
+  > 💡 *Các phiên bản tùy biến này mang đến trải nghiệm trọn vẹn nhất mà không bị giới hạn bởi các rào cản tính năng.*
 
 </div>
 
