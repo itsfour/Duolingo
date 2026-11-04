@@ -44,7 +44,7 @@
 [![DUOLINGO APK](https://img.shields.io/badge/DUOLING_++_V6.103.6-00A2FF?style=for-the-badge&logo=android&logoColor=white)](https://www.dropbox.com/scl/fi/ya3kp3qidf03kmjoo9dei/Duolingo_v6.103.6_-_Premium.apk?rlkey=0i38w7b98hw41lchjsn0ygxao&st=o37t1c4g&dl=1)
 <br>
 
-[![LOCKET APK](https://img.shields.io/badge/LOCKET_WIDGET++-00A2FF?style=for-the-badge&logo=android&logoColor=white)]([https://play.google.com/store/apps/details?id=com.duolingo)
+[![LOCKET APK](https://img.shields.io/badge/LOCKET_WIDGET++_v1.221-00A2FF?style=for-the-badge&logo=android&logoColor=white)](https://www.dropbox.com/scl/fi/g03bxbd54dhlxfj9hrnkk/Locket-Widget-v1.221.apk?rlkey=7d7eazhm8txpfc48fsenbbdei&st=y4ijtech&dl=1)
 
 *(Nhấn vào`.apk` bạn muốn tải)*
 
